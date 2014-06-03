@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="template_simple" Description="simplified template for extension object" PageHeight="50000">
+   <Dimension Label="Dimension 1" Initial="Path" TargetName="Dimension Name" />
+   <Measurement Label="Measure 1" Initial="Sum(Measure)"/>
+	<Initiate Name="Chart.Title" value="Object Template" />
+	<Initiate Name="Caption.Text" Value="Object Template" />
+  </ExtensionObject>
+
+
+
